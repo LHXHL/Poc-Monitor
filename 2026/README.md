@@ -7381,6 +7381,7 @@
 ## CVE-2026-27876 ()
 > 
 - [0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-27876">
+- [atiilla/CVE-2026-27876](https://github.com/atiilla/CVE-2026-27876)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-27876">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-27876">
 
 ---
 ## CVE-2026-27831 ()
